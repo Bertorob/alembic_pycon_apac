@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/*
+*.py[cod]
+*$py.class
+
+# Alembic specific
+*.pyc
+
+
+# IDE specific
+.idea/
+.vscode/
+*.swp 
