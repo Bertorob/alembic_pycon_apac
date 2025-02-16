@@ -87,4 +87,4 @@ If you encounter any issues:
 
 # Support
 
-If you have any questions or issues, please contact us at [roberto.landi@axyon.com](mailto:roberto.landi@axyon.com).
+If you have any questions or issues, please contact us at [roberto.landi@axyon.ai](mailto:roberto.landi@axyon.ai).
